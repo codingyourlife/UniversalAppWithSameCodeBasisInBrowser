@@ -6,8 +6,6 @@
     <SharedGUID>c0343d2a-53ca-435a-915d-71de506dc731</SharedGUID>
   </PropertyGroup>
   <ItemGroup>
-    <Content Include="$(MSBuildThisFileDirectory)css\phone.css" />
-    <Content Include="$(MSBuildThisFileDirectory)css\ui-themed.css" />
     <Content Include="$(MSBuildThisFileDirectory)css\ui-themed.theme-dark.css" />
     <Content Include="$(MSBuildThisFileDirectory)css\ui-themed.theme-light.css" />
     <Content Include="$(MSBuildThisFileDirectory)default.html" />
@@ -21,11 +19,8 @@
     <Content Include="$(MSBuildThisFileDirectory)images\storelogo.png" />
     <Content Include="$(MSBuildThisFileDirectory)images\StoreLogo.scale-240.png" />
     <Content Include="$(MSBuildThisFileDirectory)images\Wide310x150Logo.scale-240.png" />
-    <Content Include="$(MSBuildThisFileDirectory)js\default.js" />
-    <Content Include="$(MSBuildThisFileDirectory)js\data.js" />
     <Content Include="$(MSBuildThisFileDirectory)js\jquery-1.8.2-win8-1.0.min.js" />
     <Content Include="$(MSBuildThisFileDirectory)js\jquery-win8-deferred.min.js" />
-    <Content Include="$(MSBuildThisFileDirectory)js\navigator.js" />
     <Content Include="$(MSBuildThisFileDirectory)images\gray.png" />
     <Content Include="$(MSBuildThisFileDirectory)scripts\angular-mocks.js" />
     <Content Include="$(MSBuildThisFileDirectory)scripts\angular.js" />
